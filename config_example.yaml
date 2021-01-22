@@ -1,0 +1,6 @@
+###### HANA DB
+HDB_HOST : db.com
+HDB_USER : 'dbuser'
+HDB_PWD : 'pwd123!'
+HDB_PORT : 443
+
