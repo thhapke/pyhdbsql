@@ -3,9 +3,9 @@
 Command line app that connects to a HANA database and call an sql statement. The credentials of the database are stored in the config.yaml.
 
 ## Example
-```pyhdbsql --sql "<sql-statement>"``` : 
+```pyhdbsql <sql-statement>```  or explicitly
 
-```pyhdbsql --sql "SELECT * FROM TESTTABLE;"```
+```pyhdbsql SELECT * FROM TESTTABLE;```
 
 ## config.yaml
 
