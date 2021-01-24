@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="pyhdbsql",
-    version="0.0.1",
+    version="0.0.6",
     author="Thorsten Hapke",
     author_email="thorsten.hapke@sap.com",
     description="Python based sql console",

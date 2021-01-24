@@ -12,6 +12,7 @@ __pycache__/
 
 # config files
 config.yaml
+utilcommands.txt
 
 # Distribution / packaging
 .Python
